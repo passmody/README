@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alharbi</h1>
 <h3 align="center">A passionate frontend developer from kingdom of saudi arabia</h3>
 
-- 🔭 I’m currently working on **comment-analytics SmartBranchMon**
+- 🔭 I’m currently working on **comment-analytics - SmartBranchMon**
 
 - 📫 How to reach me **mohammd36013@gmail.com**
 
