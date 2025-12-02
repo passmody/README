@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Mohammed Alharbi</h1>
+<h3 align="center">A passionate frontend developer from kingdom of saudi arabia</h3>
+
+- 🔭 I’m currently working on **comment-analytics SmartBranchMon**
+
+- 📫 How to reach me **mohammd36013@gmail.com**
+
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
@@ -14,8 +23,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/passmody/passmody/output/snake.svg" alt="Snake animation" />
-
-###
